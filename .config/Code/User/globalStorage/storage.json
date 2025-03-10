@@ -1,0 +1,71 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "fdf822fc034170f5956c578d88a93dea1a0756bd0794cfc114d7c4ee92e5d7df",
+    "telemetry.devDeviceId": "40812e91-bca2-4f54-9c2d-822ef0461827",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/Dany/Downloads"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1741590150061"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/Dany/Downloads": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1741590150061": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/Dany/Downloads",
+            "backupPath": "/home/Dany/.config/Code/Backups/0f4b6b4a0a866d36794ea5ee5323ef00",
+            "uiState": {
+                "mode": 0,
+                "x": 66,
+                "y": 32,
+                "width": 1534,
+                "height": 868
+            }
+        },
+        "openedWindows": []
+    }
+}

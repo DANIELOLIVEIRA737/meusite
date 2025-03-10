@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/Dany/Downloads/site" added="2025-03-10T07:24:35.056609Z" modified="2025-03-10T07:24:35.056614Z" visited="2025-03-10T07:24:35.056610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-03-10T07:24:35.056612Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Dany/Downloads/site.js" added="2025-03-10T07:27:31.006450Z" modified="2025-03-10T07:27:31.007716Z" visited="2025-03-10T07:27:31.006451Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2025-03-10T07:27:31.006452Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-03-10T07:27:31.007715Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,5 @@
+2025/03/10-06:37:58.785 4 Creating DB /home/Dany/snap/chromium/common/chromium/Default/Local Storage/leveldb since it was missing.
+2025/03/10-06:37:58.821 4 Reusing MANIFEST /home/Dany/snap/chromium/common/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/03/10-06:39:30.119 4 Level-0 table #5: started
+2025/03/10-06:39:30.124 4 Level-0 table #5: 39547 bytes OK
+2025/03/10-06:39:30.129 4 Delete type=0 #3
